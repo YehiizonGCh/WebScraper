@@ -99,6 +99,5 @@ web-scraper-noticias/
 
 ## 👤 Autor
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+**Luis Garro**
+- GitHub: [@YehiizonGCh](https://github.com/YehiizonGCh)
