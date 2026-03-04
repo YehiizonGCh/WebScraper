@@ -53,8 +53,8 @@ Scraper que extrae titulares, URLs y puntuaciones de **Hacker News** y exporta l
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/web-scraper-noticias.git
-cd web-scraper-noticias
+git clone https://github.com/YehiizonGCh/WebScraper.git
+cd WebScraper
 ```
 
 ### 2. Instala las dependencias
